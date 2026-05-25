@@ -363,7 +363,7 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&lines=Commits+don't+lie+%E2%80%94+here's+the+receipts+📈" alt="Stats tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&lines=Commits+do+not+lie+-+here+are+the+receipts+%F0%9F%93%88" alt="Stats tagline"/>
 
 <br/><br/>
 
@@ -396,7 +396,7 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=FFA116&center=true&vCenter=true&width=500&lines=Grind+mode+%3A+ALWAYS+ON+⚡;200%2B+LeetCode+problems+solved+🧩" alt="CP tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=FFA116&center=true&vCenter=true&width=500&lines=Grind+mode+ALWAYS+ON+%E2%9A%A1;200%2B+LeetCode+problems+solved+%F0%9F%A7%A9" alt="CP tagline"/>
 
 <br/><br/>
 
@@ -458,7 +458,7 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2500&color=f472b6&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+collaborations+%26+cool+builds+🤝;DMs+are+open+%E2%80%94+let's+make+something+great!" alt="Connect CTA"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2500&color=f472b6&center=true&vCenter=true&width=600&lines=Open+to+internships+and+collaborations+%F0%9F%A4%9D;DMs+are+open+lets+build+something+great!" alt="Connect CTA"/>
 
 <br/><br/>
 
