@@ -396,7 +396,7 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=FFA116&center=true&vCenter=true&width=500&lines=Grind+mode+ALWAYS+ON+%E2%9A%A1;200%2B+LeetCode+problems+solved+%F0%9F%A7%A9" alt="CP tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=FFA116&center=true&vCenter=true&width=700&height=30&lines=Grind+mode+ALWAYS+ON+%E2%9A%A1;200%2B+LeetCode+problems+solved+%F0%9F%A7%A9" alt="CP tagline"/>
 
 <br/><br/>
 
@@ -417,38 +417,6 @@ print(mohit.superpower)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitsharmas97/mohitsharmas97/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/mohitsharmas97/mohitsharmas97/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-<!--
-  ⚡ TO ENABLE THE SNAKE ANIMATION:
-  1. In your profile repo, create: .github/workflows/snake.yml
-  2. Paste:
-
-  name: Generate Snake Animation
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: mohitsharmas97
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  3. Run the workflow manually once from the Actions tab.
-     After it completes, the snake will appear here ✅
--->
 
 </div>
 
