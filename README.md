@@ -1,58 +1,43 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&text=Mohit&fontSize=90&color=0:050510,30:0d0030,60:001a3d,100:050510&fontColor=00d4ff&stroke=00d4ff&strokeWidth=3&animation=fadeIn&desc=ML%20Engineer%20%7C%20MLOps%20%7C%20AI%20Builder%20%7C%20Azure%20Cloud&descSize=22&descAlignY=78&descColor=a78bfa"/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🚀+Building+Production+ML+Systems;🐳+Docker+•+CI%2FCD+•+Azure+•+PyTorch;🏆+Microsoft+CodeForge+Finalist+—+Top+6%2F750%2B;🔬+95%25%2B+Accuracy+in+Medical+AI;🧠+Turning+Research+into+Real+AI+Products;⚡+Open+Source+•+Learn+•+Build+•+Ship" alt="Typing SVG" />
-
+<!-- CLEAN MODERN HEADER — no heavy banners -->
 <br/>
 
-<!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=mohitsharmas97&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=62&duration=3000&pause=8000&color=FFFFFF&center=true&vCenter=true&width=420&height=80&lines=Hi%2C+I'm+Mohit." alt="Hi I'm Mohit" />
+</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+MLOps+%7C+AI+Builder+%7C+Azure+Cloud;Building+production+ML+systems+from+research+to+deploy;Microsoft+CodeForge+Finalist+—+Top+6+%2F+750%2B+Teams+%F0%9F%8F%86;95%25%2B+accuracy+in+Medical+AI+%7C+Docker+%2B+CI%2FCD" alt="Subtitle typing" />
+
+<br/><br/>
+
+<!-- MINIMAL BADGE ROW -->
+<a href="mailto:mksharmah675@gmail.com"><img src="https://img.shields.io/badge/Gmail-mksharmah675-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/mohitsharmas97?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d0d1a&logo=github" />
+<a href="https://linkedin.com/in/mohit-sharma9761"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/mohitsharmas97?tab=repositories"><img src="https://img.shields.io/badge/🗂️_Repos-58+-f472b6?style=for-the-badge&labelColor=0d0d1a"/></a>
+<img src="https://komarev.com/ghpvc/?username=mohitsharmas97&label=Profile+Views&color=64B5F6&style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff88?style=for-the-badge&labelColor=0d0d1a&logo=checkmarx"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Roles-22c55e?style=flat-square&logo=checkmarx&logoColor=white"/>
 
-</div>
+<br/><br/>
 
----
-
-<!-- ANIMATED ENGINEER SECTION — ADD YOUR PHOTO HERE -->
-## 👨‍💻 The Engineer
-
-<div align="center">
-
+<!-- PHOTO SECTION — clean card style -->
 <!--
-  ╔══════════════════════════════════════════════════╗
-  ║         📸  ADD YOUR PHOTO HERE                  ║
-  ║                                                  ║
-  ║  Option 1 — Direct GitHub upload:                ║
-  ║  1. Go to your repo → Add file → Upload files    ║
-  ║  2. Upload your photo as "profile.jpg"           ║
-  ║  3. Replace the img src below with:              ║
-  ║     src="profile.jpg"                            ║
-  ║                                                  ║
-  ║  Option 2 — Use a hosted image:                  ║
-  ║  Replace the src with your image URL             ║
-  ║                                                  ║
-  ║  Recommended: Square photo, min 400x400px        ║
-  ║  Wearing your engineering/professional look! 🚀  ║
-  ╚══════════════════════════════════════════════════╝
+  📸 TO ADD YOUR PHOTO:
+  Upload your image to your profile repo as  mohit.jpg
+  then change the src below to: src="mohit.jpg"
+  The circular crop + glow border will apply automatically ✅
 -->
-
-<!-- REPLACE THE URL BELOW WITH YOUR ACTUAL PHOTO LINK -->
-<img src="mohit.jpg.jpg" 
-     width="160" 
-     style="border-radius: 50%; border: 3px solid #00d4ff;" 
-     alt="Mohit — ML Engineer"/>
+<img src="https://avatars.githubusercontent.com/mohitsharmas97?v=4"
+     width="140"
+     style="border-radius:50%;border:3px solid #64B5F6;"
+     alt="Mohit — ML Engineer at laptop"/>
 
 <br/>
+<sub><b>Mohit</b> · ML Engineer · Jaipur, India 🇮🇳</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2000&color=a78bfa&center=true&vCenter=true&width=500&lines=ML+Engineer+%40+Qriocity+%7C+Azure+Cloud;B.Tech+AI+%26+Data+Science+%7C+Batch+2027;Building+the+Future+with+Code+%26+Models+🧠" alt="Role Typing" />
+<br/><br/>
 
 </div>
 
