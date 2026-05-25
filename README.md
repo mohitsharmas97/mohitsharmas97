@@ -20,25 +20,12 @@
 
 <br/><br/>
 
-<img src="mohit.jpg.jpg"
-     width="200"
-     style="border-radius:50%;border:3px solid #64B5F6;"
-     alt="Mohit — ML Engineer"/>
 
 <!-- 
   📸 TO SHOW YOUR ACTUAL PHOTO:
   1. Upload your photo as mohit.jpg to this repo
   2. Replace the src above with just: src="mohit.jpg"
 -->
-
-<br/>
-<sub><b>Mohit Sharma</b> · ML Engineer · Jaipur, India 🇮🇳</sub>
-
-<br/><br/>
-
-> *"The best model is the one that ships to production — not the one that sits in a notebook."*
-
-<br/>
 
 </div>
 
