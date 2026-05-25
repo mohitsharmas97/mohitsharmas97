@@ -1,17 +1,15 @@
 <div align="center">
 
-<!-- CLEAN MODERN HEADER — no heavy banners -->
 <br/>
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=62&duration=3000&pause=8000&color=FFFFFF&center=true&vCenter=true&width=420&height=80&lines=Hi%2C+I'm+Mohit." alt="Hi I'm Mohit" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+MLOps+%7C+AI+Builder+%7C+Azure+Cloud;Building+production+ML+systems+from+research+to+deploy;Microsoft+CodeForge+Finalist+—+Top+6+%2F+750%2B+Teams+%F0%9F%8F%86;95%25%2B+accuracy+in+Medical+AI+%7C+Docker+%2B+CI%2FCD" alt="Subtitle typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+MLOps+%7C+AI+Builder+%7C+Azure+Cloud;Building+production+ML+systems+from+research+to+deploy;Microsoft+CodeForge+Finalist+%E2%80%94+Top+6+%2F+750%2B+Teams+%F0%9F%8F%86;95%25%2B+accuracy+in+Medical+AI+%7C+Docker+%2B+CI%2FCD" alt="Subtitle typing" />
 
 <br/><br/>
 
-<!-- MINIMAL BADGE ROW -->
 <a href="mailto:mksharmah675@gmail.com"><img src="https://img.shields.io/badge/Gmail-mksharmah675-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="https://linkedin.com/in/mohit-sharma9761"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -22,28 +20,30 @@
 
 <br/><br/>
 
-<!-- PHOTO SECTION — clean card style -->
-<!--
-  📸 TO ADD YOUR PHOTO:
-  Upload your image to your profile repo as  mohit.jpg
-  then change the src below to: src="mohit.jpg"
-  The circular crop + glow border will apply automatically ✅
--->
-<img src="https://avatars.githubusercontent.com/mohitsharmas97?v=4"
+<img src="https://avatars.githubusercontent.com/u/mohitsharmas97?v=4"
      width="140"
      style="border-radius:50%;border:3px solid #64B5F6;"
-     alt="Mohit — ML Engineer at laptop"/>
+     alt="Mohit — ML Engineer"/>
+
+<!-- 
+  📸 TO SHOW YOUR ACTUAL PHOTO:
+  1. Upload your photo as mohit.jpg to this repo
+  2. Replace the src above with just: src="mohit.jpg"
+-->
 
 <br/>
-<sub><b>Mohit</b> · ML Engineer · Jaipur, India 🇮🇳</sub>
+<sub><b>Mohit Sharma</b> · ML Engineer · Jaipur, India 🇮🇳</sub>
 
 <br/><br/>
+
+> *"The best model is the one that ships to production — not the one that sits in a notebook."*
+
+<br/>
 
 </div>
 
 ---
 
-<!-- ANIMATED ENGINEER CODING GIF + BIO -->
 ## 🖥️ `whoami` — The Dev Behind the Models
 
 <table>
@@ -53,7 +53,7 @@
 ```python
 class Mohit:
     def __init__(self):
-        self.name        = "Mohit"
+        self.name        = "Mohit Sharma"
         self.title       = "ML Engineer & AI Builder"
         self.college     = "Arya College of Engineering & IT"
         self.degree      = "B.Tech — AI & Data Science"
@@ -77,10 +77,11 @@ class Mohit:
 
     def fun_facts(self):
         return [
-            "🌌 Detected real asteroids before ML models",
+            "🌌 Detected real asteroids before building ML models",
             "🏆 Top 6 / 750+ teams at CodeForge 2025",
             "🐳 My laptop: 100% sticker coverage achieved",
             "☕ Caffeine-to-model-accuracy correlation: high",
+            "🔁 I refactor my code more than I refactor my life",
         ]
 
 mohit = Mohit()
@@ -91,13 +92,11 @@ print(mohit.superpower)
 </td>
 <td width="45%" valign="top" align="center">
 
-<!-- ANIMATED CODING GIF — Engineer working on laptop -->
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" 
-     width="340" alt="Engineer coding animation"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
+     width="320" alt="Engineer coding animation"/>
 
 <br/><br/>
 
-<!-- LIVE BADGE STACK -->
 <img src="https://img.shields.io/badge/⚡_Currently-Building_in_Prod-00ff88?style=flat-square&labelColor=0d0d1a"/>
 <br/>
 <img src="https://img.shields.io/badge/☁️_Cloud-Azure_Deployed-0078D4?style=flat-square&logo=microsoftazure&labelColor=0d0d1a"/>
@@ -116,10 +115,6 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=3000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+Unlocked+%3A+Microsoft+CodeForge+Finalist+—+Top+6+%2F+750%2B+Teams" alt="Achievement" />
-
-<br/>
-
 <table>
 <tr>
 <td align="center" width="220">
@@ -136,7 +131,7 @@ print(mohit.superpower)
 ![Hackathon](https://img.shields.io/badge/🏅-Arya_Hackathon-C0C0C0?style=for-the-badge&labelColor=1a1a2e)
 
 **4th Place · 78 Teams**
-<br/>INR 2000 Prize
+<br/>INR 2,000 Prize
 <br/>*AI/ML Healthcare Solution*
 
 </td>
@@ -187,9 +182,7 @@ print(mohit.superpower)
 ## 🚀 Featured Projects
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=f472b6&center=true&vCenter=true&width=600&lines=Shipping+real+AI+products%2C+not+just+notebooks+🚢;From+research+to+deployment+in+production+⚡" alt="Projects tagline"/>
-
 </div>
 
 <br/>
@@ -300,6 +293,22 @@ print(mohit.superpower)
 
 ---
 
+## 🌱 Currently Exploring
+
+<div align="center">
+
+```
+⚡ Transformer fine-tuning on medical imaging datasets
+🔗 LLM Agents with tool-calling & memory (LangGraph)
+📦 Kubernetes for scalable ML inference
+🧪 MLflow experiment tracking in production pipelines
+🌐 Multimodal AI — vision + language together
+```
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -354,22 +363,16 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&lines=Commits+don't+lie+—+here's+the+receipts+📈" alt="Stats tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=00d4ff&center=true&vCenter=true&width=500&lines=Commits+don't+lie+%E2%80%94+here's+the+receipts+📈" alt="Stats tagline"/>
 
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitsharmas97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=00d4ff&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsharmas97&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00d4ff&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=mohitsharmas97&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00d4ff&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0"/>
 
 <br/><br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharmas97&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&text_color=e2e8f0&langs_count=8"/>
-&nbsp;&nbsp;
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitsharmas97&theme=tokyonight"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsharmas97&theme=react-dark&hide_border=true&bg_color=0d0d1a&color=00d4ff&line=a78bfa&point=f472b6&area=true&area_color=00d4ff" width="97%"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharmas97&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00d4ff&text_color=e2e8f0&langs_count=8"/>
 
 </div>
 
@@ -379,7 +382,7 @@ print(mohit.superpower)
 
 <div align="center">
 
-| 🎖️ Badge | 📜 Certification | 🏢 Issuer | 📅 Year |
+| 🎖️ | 📜 Certification | 🏢 Issuer | 📅 Year |
 |:---:|:---|:---|:---:|
 | ☁️ | **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle Corporation | 2025 |
 | 🌌 | **Provisional Asteroid Detection Recognition** | IASC | 2024 |
@@ -393,33 +396,32 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=FFA116&center=true&vCenter=true&width=500&lines=Grind+mode+%3A+ALWAYS+ON+⚡;200%2B+LeetCode+problems+solved+%F0%9F%A7%A9" alt="CP tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=FFA116&center=true&vCenter=true&width=500&lines=Grind+mode+%3A+ALWAYS+ON+⚡;200%2B+LeetCode+problems+solved+🧩" alt="CP tagline"/>
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mohit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohitsharmas97/)
 &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-2★_·_1400%2B_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-2★_·_1400%2B_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/mohitsharmas97)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitsharmas97/mohitsharmas97/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitsharmas97/mohitsharmas97/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mohitsharmas97/mohitsharmas97/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mohitsharmas97/mohitsharmas97/output/github-snake-dark.svg" />
 </picture>
 
 <!--
   ⚡ TO ENABLE THE SNAKE ANIMATION:
-  1. Go to your profile repo (mohitsharmas97/mohitsharmas97)
-  2. Create a new file: .github/workflows/snake.yml
-  3. Paste this workflow:
+  1. In your profile repo, create: .github/workflows/snake.yml
+  2. Paste:
 
   name: Generate Snake Animation
   on:
@@ -442,6 +444,9 @@ print(mohit.superpower)
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+  3. Run the workflow manually once from the Actions tab.
+     After it completes, the snake will appear here ✅
 -->
 
 </div>
@@ -452,43 +457,20 @@ print(mohit.superpower)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2500&color=f472b6&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+collaborations+%26+cool+builds+🤝;DMs+are+open+—+let's+make+something+great!" alt="Connect CTA"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=2500&color=f472b6&center=true&vCenter=true&width=600&lines=Open+to+internships%2C+collaborations+%26+cool+builds+🤝;DMs+are+open+%E2%80%94+let's+make+something+great!" alt="Connect CTA"/>
 
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/📧_Email-mksharmah675%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mksharmah675@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Mohit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-sharma9761)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Mohit_Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-sharma9761)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-mohitsharmas97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitsharmas97)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/💡_LeetCode-mohit-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mohit)
+[![LeetCode](https://img.shields.io/badge/💡_LeetCode-mohitsharmas97-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mohitsharmas97/)
 
 <br/><br/>
 
-<!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:0d0030,70:001a3d,100:050510&height=140&section=footer&text=Build+in+Production.+Ship+with+Confidence.+🚀&fontSize=18&fontColor=00d4ff&animation=fadeIn&descSize=14&descColor=a78bfa"/>
 
 </div>
-
-<!-- 
-  ════════════════════════════════════════════
-  📸 QUICK GUIDE: WHERE TO ADD YOUR PHOTO
-  ════════════════════════════════════════════
-  
-  1. Upload your photo to your profile repo on GitHub
-     (mohitsharmas97/mohitsharmas97)
-  
-  2. Name it: mohit.jpg (or .png)
-  
-  3. Find the img tag under "The Engineer" section
-     and change src to: "mohit.jpg"
-  
-  4. For a circular professional look, the 
-     border-radius:50% style is already set ✅
-  
-  TIP: Use a photo where you're at a laptop, 
-  at a desk, or in a professional/tech setting.
-  It reinforces the "ML Engineer" brand! 💡
-  ════════════════════════════════════════════
--->
