@@ -418,6 +418,7 @@ print(mohit.superpower)
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/mohitsharmas97/mohitsharmas97/output/github-snake-dark.svg" />
 </picture>
 
+</div>
 <!--
   ⚡ TO ENABLE THE SNAKE ANIMATION:
   1. In your profile repo, create: .github/workflows/snake.yml
