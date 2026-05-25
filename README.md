@@ -20,8 +20,8 @@
 
 <br/><br/>
 
-<img src="https://avatars.githubusercontent.com/u/mohitsharmas97?v=4"
-     width="140"
+<img src="mohit.jpg.jpg"
+     width="200"
      style="border-radius:50%;border:3px solid #64B5F6;"
      alt="Mohit — ML Engineer"/>
 
