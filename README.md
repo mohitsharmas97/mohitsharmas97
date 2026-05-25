@@ -3,7 +3,7 @@
 <br/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=62&duration=3000&pause=8000&color=FFFFFF&center=true&vCenter=true&width=420&height=80&lines=Hi%2C+I'm+Mohit." alt="Hi I'm Mohit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=62&duration=3000&pause=8000&color=64B5F6&center=true&vCenter=true&width=420&height=80&lines=Hi%2C+I'm+Mohit." alt="Hi I'm Mohit" />
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=64B5F6&center=true&vCenter=true&width=680&lines=ML+Engineer+%7C+MLOps+%7C+AI+Builder+%7C+Azure+Cloud;Building+production+ML+systems+from+research+to+deploy;Microsoft+CodeForge+Finalist+%E2%80%94+Top+6+%2F+750%2B+Teams+%F0%9F%8F%86;95%25%2B+accuracy+in+Medical+AI+%7C+Docker+%2B+CI%2FCD" alt="Subtitle typing" />
