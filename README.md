@@ -45,7 +45,7 @@
 -->
 
 <!-- REPLACE THE URL BELOW WITH YOUR ACTUAL PHOTO LINK -->
-<img src="https://avatars.githubusercontent.com/u/mohitsharmas97?v=4" 
+<img src="mohit.jpg.jpg" 
      width="160" 
      style="border-radius: 50%; border: 3px solid #00d4ff;" 
      alt="Mohit — ML Engineer"/>
