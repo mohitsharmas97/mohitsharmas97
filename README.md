@@ -169,7 +169,6 @@ print(mohit.superpower)
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2500&color=f472b6&center=true&vCenter=true&width=600&lines=Shipping+real+AI+products%2C+not+just+notebooks+🚢;From+research+to+deployment+in+production+⚡" alt="Projects tagline"/>
 </div>
 
 <br/>
